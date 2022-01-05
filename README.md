@@ -8,12 +8,12 @@
 The book and code repo for the FREE Fundamental Go book by Kevin Thomas.
 
 ## FREE Book
-[Download](https://github.com/mytechnotalent/Fundamental-Python/blob/main/Fundamental_Go_ALPHA.pdf)
+[Download](https://github.com/mytechnotalent/Fundamental-Go/blob/main/Fundamental_Go_ALPHA.pdf)
 
 ## Chapter 1: Basic I/O
 This tutorial will discuss Go basic input and output.
 
--> Click [HERE](https://github.com/mytechnotalent/Fundamental-Python/blob/main/Fundamental_Go_ALPHA.pdf) to read the lesson in PDF format. <br>
+-> Click [HERE](https://github.com/mytechnotalent/Fundamental-Go/blob/main/Fundamental_Go_ALPHA.pdf) to read the lesson in PDF format. <br>
 
 ## BOOK IS UNDER DEVELOPMENT
 
